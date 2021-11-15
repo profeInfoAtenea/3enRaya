@@ -1,5 +1,7 @@
 
 '''
+NOTA: Usar en Shell help(<nombre-función) para ver los comentarios
+
 ## 3 en Raya
 
 Se representa con un Matriz 3x3.
