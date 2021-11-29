@@ -35,4 +35,5 @@ imprime(sol2)
 introducirFicha(sol2, 0,1,1)
 introducirFicha(sol2, 0,2,1)
 imprime(sol2)
-    
+
+#Nuevo branch
